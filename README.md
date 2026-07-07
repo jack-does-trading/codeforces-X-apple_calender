@@ -2,9 +2,7 @@
 
 ## Why this exists
 
-I kept doing the same dumb thing every week: forget a Codeforces round was
-happening, schedule a call right through it, then rage-decline the call at
-minute two of the contest. My calendar had no idea rounds existed. Codeforces
+My calendar had no idea rounds existed. Codeforces
 had no idea my calendar existed. Nobody was talking to anybody.
 
 So this exists to make my calendar and Codeforces talk to each other, without
@@ -68,7 +66,7 @@ Use `launchd` so this just... happens, forever, in the background:
    cp com.user.cfcalendarsync.plist ~/Library/LaunchAgents/
    launchctl load ~/Library/LaunchAgents/com.user.cfcalendarsync.plist
    ```
-   Runs immediately, then every 6 hours, for as long as you're logged in.
+   Runs immediately, then every 24 hours, for as long as you're logged in.
    You will never think about this again. That's the goal.
 
 3. Want it gone?
