@@ -1,6 +1,4 @@
-#💻 Codeforces → Apple Calendar Sync 📅
-
-*or: how I stopped double-booking myself over a Div. 2*
+# Codeforces 💻 → Apple Calendar Sync 📅
 
 ## Why this exists
 
