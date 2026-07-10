@@ -9,7 +9,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/Users/bhavyadeephada/Desktop/cf x calender/files/cf_calender_sync.py</string>
+        <string>/Users/bhavyadeephada/cf_calendar_sync/cf_calendar_sync.py</string>
     </array>
 
     <!-- Run once immediately when loaded, then every 24 hours -->
